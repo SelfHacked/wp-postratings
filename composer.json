@@ -1,5 +1,5 @@
 {
-    "name": "lesterchan/wp-postratings",
+    "name": "selfhacked/wp-postratings",
     "description": "Adds an AJAX rating system for your WordPress site's content",
     "type": "wordpress-plugin",
     "authors": [
